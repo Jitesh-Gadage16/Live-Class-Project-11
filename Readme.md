@@ -26,7 +26,7 @@
 ##   
 
 
- ## 🚀 Project 1q Live Link 
+ ## 🚀 Project 11 Live Link 
  
 - This Project is been Hosted on Netlify. [Project Live Link](https://live-class-project-11.netlify.app/)
 
