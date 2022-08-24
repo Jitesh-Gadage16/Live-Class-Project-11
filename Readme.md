@@ -7,13 +7,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&color=red)
 
 
-> Below is the Template Which is to made to be converted into website Using Pure **HTML** and **CSS**.
-
-![Design](./assets/thumbnail.png)   
-
 
 
 > ## Output 
+
+![output short video](./assets/ezgif.com-gif-maker%20(3).gif)
 
 
 ![](./assets/output.png)  
@@ -23,11 +21,12 @@
 ![](./assets/output5.png)
 ![](./assets/output6.png)
 ![](./assets/output7.png)
+![](./assets/output8.png)
 
 ##   
 
 
- ## 🚀 Project 1 Live Link 
+ ## 🚀 Project 1q Live Link 
  
 - This Project is been Hosted on Netlify. [Project Live Link](https://live-class-project-11.netlify.app/)
 
@@ -43,8 +42,6 @@
 
  ## ⌛ Time taken to finish this project 
 
- - Complete 5-6 hrs for design and 15 min for responsive
+ - Complete 5-6 hrs for design and 1 hr for responsive
 
-### Future Scope
 
-- Adding Mob navbar working function
